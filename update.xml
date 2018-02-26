@@ -1,4 +1,4 @@
-<?xml version="2.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Manifest version="2">
   <CheckInterval>60</CheckInterval>
   <RemoteConfigUri>https://raw.githubusercontent.com/faezeh123/Updater_test1/master/update.xml</RemoteConfigUri>
