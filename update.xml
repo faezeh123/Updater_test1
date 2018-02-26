@@ -3,6 +3,6 @@
   <CheckInterval>150</CheckInterval>
   <RemoteConfigUri>https://raw.githubusercontent.com/faezeh123/Updater_test1/master/update.xml</RemoteConfigUri>
   <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
-  <BaseUri>https://github.com/faezeh123/Updater_test1</BaseUri>
+  <BaseUri>https://github.com/faezeh123/Updater_test1/blob/master/</BaseUri>
   <Payload>Form_test1_v2.zip</Payload>
 </Manifest>
