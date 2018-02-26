@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Manifest version="1">
+<?xml version="2.0" encoding="utf-8" ?>
+<Manifest version="2">
   <CheckInterval>60</CheckInterval>
   <RemoteConfigUri>https://raw.githubusercontent.com/faezeh123/Updater_test1/master/update.xml</RemoteConfigUri>
   <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
