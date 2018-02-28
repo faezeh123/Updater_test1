@@ -10,8 +10,8 @@
     <!-- This token must be the same at both ends to avoid tampering -->
     <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
     <!-- All payload files are assumed to have this URI prefix. -->
-    <BaseUri>http://rbsoft.org/downloads/</BaseUri>
+    <BaseUri>https://github.com/faezeh123/Updater_test1/blob/master/</BaseUri>
 
     <!-- One or more files containing updates. -->
-    <Payload>AutoUpdaterTest.zip</Payload>
+    <Payload>Form_test1.zip</Payload>
 </Manifest>
