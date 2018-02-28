@@ -13,5 +13,5 @@
     <BaseUri>https://github.com/faezeh123/Updater_test1/blob/master/</BaseUri>
 
     <!-- One or more files containing updates. -->
-    <Payload>Form_test1.zip</Payload>
+    <Payload>Form_test1.zip?raw=true</Payload>
 </Manifest>
