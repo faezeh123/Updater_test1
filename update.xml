@@ -3,6 +3,9 @@
 <Manifest version="3">
     <!-- Your application will check for updates every (seconds) -->
     <CheckInterval>150</CheckInterval>
+    
+    <!-- Your application name -->
+    <AppName>MyApplication</AppName>
 
     <!-- The URI to the remote manifest -->
     <RemoteConfigUri>https://raw.githubusercontent.com/faezeh123/Updater_test1/master/update.xml</RemoteConfigUri>
