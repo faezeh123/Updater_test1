@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Info AppName="Time_Series" AppFullName="Time_Series" Description = "This is a short description for TimeSeries program." version="B" icon = "TimeSeries.png">
-  <ServerInfoUri>https://raw.githubusercontent.com/faezeh123/Updater_test1/master/update.xml</ServerInfoUri>
+<Info AppName="Time_Series" AppFullName="Time_Series" Description = "This is a short description for TimeSeries program." version="C" icon = "TimeSeries.png">
+  <ServerInfoUri>https://raw.githubusercontent.com/faezeh123/Updater_test1/master/Time_series/Info.xml</ServerInfoUri>
   <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/faezeh123/Updater_test1/master/</BaseUri>
   <Payload>Form_test1_v2.zip</Payload>
